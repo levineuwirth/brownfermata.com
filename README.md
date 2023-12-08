@@ -1,2 +1,2 @@
-# fermatabcc.com
+# brownfermata.com
 The website of the Brown Composer's Collective!
