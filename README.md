@@ -1,2 +1,2 @@
 # brownfermata.com
-The website of the Brown Composer's Collective!
+The website of the Brown Composers Collective!
